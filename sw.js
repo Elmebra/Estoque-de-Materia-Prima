@@ -1,6 +1,6 @@
 // Service worker: deixa o app abrir instantaneamente e funcionar com os últimos dados.
 // Suba o número da versão quando publicar mudanças nos arquivos do app.
-var VERSAO = 'estoque-mp-v1';
+var VERSAO = 'estoque-mp-v2';
 var ARQUIVOS = ['./', 'index.html', 'style.css', 'app.js', 'config.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/logo-azul.png', 'icons/favicon.png'];
 
